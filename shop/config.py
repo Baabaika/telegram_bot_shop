@@ -1,4 +1,4 @@
-token = '6660137516:AAHd97MvcuR976e-IsK6GVOtKyXGfyloJ6c'
-admin_id = '812688582' #'812688582' '1525263951'
-payments_token = '401643678:TEST:90d469f3-bff5-470e-a511-f967b0591d03'
+token = ''
+admin_id = ''
+payments_token = ''
 
